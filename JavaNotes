@@ -1,0 +1,10 @@
+2 ways 2 add JS
+inline script 
+	inline script needs to be started with <script>and end with </script>
+extenal javascript file
+	added by using <script src = 'FileName'></script>
+JSFUNctions
+	console.log('') outputs into the console
+Setting variables
+	var VariableName = Variable
+
